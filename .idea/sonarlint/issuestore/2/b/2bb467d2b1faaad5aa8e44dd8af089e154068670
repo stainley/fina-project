@@ -1,0 +1,15 @@
+
+
+java:S1488"dImmediately return this expression instead of assigning it to the temporary variable "dataFromFile".(Åî´–üÿÿÿÿ
+b
+java:S22598"LA "NullPointerException" could be thrown; "bufferedReader" is nullable here.(©§şŠ
+b
+java:S2259"LA "NullPointerException" could be thrown; "bufferedReader" is nullable here.(©§şŠ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÖòıÁ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‹êêÚ
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(ÖòıÁ
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(‹êêÚ
+E
+java:S2093("*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ

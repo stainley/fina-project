@@ -1,0 +1,20 @@
+
+`	java:S112/"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112;"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+g	java:S112@"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8×ª·Æ0
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾©¡½üÿÿÿÿ
+w
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "data".(ƒ§“âÿÿÿÿÿ
+_
+java:S1163@"=Refactor this code to not throw exceptions in finally blocks.(Ò‚Òéüÿÿÿÿ8Øª·Æ0
+V
+java:S1143@"4Remove this throw statement from this finally block.(Ò‚Òéüÿÿÿÿ8Øª·Æ0
+]
+java:S2259>"@A "NullPointerException" could be thrown; "bw" is nullable here.(÷¹ª8ãª·Æ0
+i
+java:S2095#"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ÊÃ‡½8›¯³·Æ0
+S	java:S106("9Replace this use of System.out or System.err by a logger.(”æîšıÿÿÿÿ
+F
+java:S14814"0Remove this unused "printWriter" local variable.(Ã‘Éé
+L
+java:S20936"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8å¬¨·Æ0
